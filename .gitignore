@@ -1,0 +1,6 @@
+# stack
+.stack-work/
+
+# idea files
+.idea/
+*.iml
